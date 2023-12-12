@@ -1,0 +1,11 @@
+{
+  "name": "file-namer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "file-namer.js",
+  "scripts": {
+    "start": "node file-namer.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
